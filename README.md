@@ -38,19 +38,16 @@ This project predicts employee salaries using regression models, evaluating perf
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   
-bash
+
    git clone https://github.com/getadityaarya/SalaryPredictionProject.git 
    cd SalaryPredictionProject
 
 2. Install dependencies:
 
-bash
 pip install -r requirements.txt
 
 3. Run the notebook or script:
 
-bash
 -- For Jupyter Notebook
 jupyter notebook Assi1.ipynb
 
